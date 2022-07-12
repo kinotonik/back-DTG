@@ -1,0 +1,79 @@
+[
+    {
+    "id": 1,
+    "name": "Caverne d’Ali Cracra",
+    "capacity": "Couple",
+    "location": "Pangée",
+    "description1": "Pour toutes celles et ceux qui en ont assez de la propreté",
+    "description2": "Pour vous les crados qui ne vous assumez pas au quotidien, voilà un espace qui vous correspond. Ici, pas de douche, pas de produits de nettoyage, et on fait ses besoins dans un coin. Le mobilier est entièrement récupéré de la Love Room, surtout quand il a beaucoup servi.",
+    "price": "5000 slips sales",
+    "photo": "https://sophiel-64.github.io/DTG-dans-ta-grotte-API/img/image01.png",
+    "period": "hiver"
+    },
+    {
+    "id": 2,
+    "name": "Gonadeux",
+    "capacity": "Couple",
+    "location": "Pangée",
+    "description1": "Au poing que cette caverne en devient cul(te)",
+    "description2": "La coupe stratigraphique se compose de plus de dix couches de spermogramme réparties sur deux périodes (le Paléolithique Moyen et le Paléolithique Supérieur).",
+    "price": "200 Galets",
+    "photo": "https://sophiel-64.github.io/DTG-dans-ta-grotte-API/img/image02.png",
+    "period": "Été"
+    },
+    {
+    "id": 3,
+    "name": "La Gr’Hot",
+    "capacity": "Couple",
+    "location": "Pangée",
+    "description1": "On ne veut pas savoir ce que vous y ferez.",
+    "description2": "Tentez l'expérience paléolithique dans les entrailles de la terre. Sublimez votre instinct animal, réveillez la bête sauvage qui est en vous. Cette tanière romantique sera l’écrin idéal de vos ébats.Services inclus : épilation intégrale au silex, rite de la stalagmite et spa spéléo-massant. ",
+    "price": "50 roses rouges",
+    "photo": "https://sophiel-64.github.io/DTG-dans-ta-grotte-API/img/image03.png",
+    "period": "printemps"
+    },
+    {
+    "id": 4,
+    "name": "La massue dans l’eau",
+    "capacity": "Tribu",
+    "location": "Pangée",
+    "description1": "Profitez de l’air marin pour tremper votre massue (et plus si affinité avec l’eau). Les enfants de la tribu vous laisseront enfin en paix",
+    "description2": "Situé à quelques mètres de l’eau, vous aurez le plaisir de pouvoir profiter de l’air marin et des mets de la mer si peu communs dans le reste de la contrée ! Pensez toutefois à emporter en voyage un.e nounou afin d’éviter de perdre vos précieux rejetons noyés.Nous déclinons toute responsabilité en cas de piqûres d’oursins, méduses, vives etc. Le gardien de grotte est en supplément. Veuillez ne pas abandonner vos epaux/épouses/voisins/maitresses sur place : Des frais de rapatriement à la SPA seront collectés.",
+    "price": "2 chevaux unijambistes",
+    "photo": "https://sophiel-64.github.io/DTG-dans-ta-grotte-API/img/image04.png",
+    "period": "printemps"
+    },
+    {
+    "id": 5,
+    "name": "Escapade enneigée",
+    "capacity": "tribu",
+    "location": "Pangée",
+    "description1": "Perdu?! Oh oui perdu!",
+    "description2": "A 2 pas de la clairière à droite du chêne blanc, découvrez dans une ambiance neigeuse, cette grotte multi couchage pour votre tribu. Cosy et éloignée de tout, de la neige et du froid à perte de vue. Un petit feu et à vous l’air épuré de la montagne",
+    "price": "2 peaux de chamois",
+    "photo": "https://sophiel-64.github.io/DTG-dans-ta-grotte-API/img/image05.png",
+    "period": "hiver"
+    },
+    {
+    "id": 6,
+    "name": "Laissez moi tranquille",
+    "capacity": "seul",
+    "location": "Pangée",
+    "description1": "Tu veux être seul? Un endroit frais et vivifiant t’attend",
+    "description2": "Ici tu trouveras le calme et la tranquillité que tu recherches. Pas de massue, pas de voisin et pas de lézard mangeur d’hommes. Un bassin pour te baigner si tu as trop chaud, il n’y a pas de bouée à disposition alors reste où tu as pied. Le poisson est plutôt bon et non carnivore les orteils sont sauvés, ne perds plus un instant et rejoins cette magnifique grotte pour des heures et des heures de solitude! ",
+    "price": "1 cuisse de mammouth",
+    "photo": "https://sophiel-64.github.io/DTG-dans-ta-grotte-API/img/image06.png",
+    "period": "été"
+    },
+    {
+    "id": 7,
+    "name": "Caverne d’artiste",
+    "capacity": "solo",
+    "location": "Pangée",
+    "description1": "Besoin de vous connecter à votre âme d’artiste ?",
+    "description2": "Vous pensez depuis un moment à l'œuvre rupestre de votre vie, mais votre tribu ne vous laisse pas une seconde pour vous concentrer.  Venez vous isoler dans cette grotte à la décoration inspirante, pour devenir un artiste reconnu et inscrivez votre marque pour l’éternité (ATTENTION : dans la limite de la place de mur disponible)",
+    "price": "5 silexs et 2 dents",
+    "photo": "https://sophiel-64.github.io/DTG-dans-ta-grotte-API/img/image07.png",
+    "period": "automne"
+    }
+    ]
